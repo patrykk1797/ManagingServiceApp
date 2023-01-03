@@ -1,0 +1,42 @@
+C:\Users\bolo0\source\repos\Mechanicy\Mechanicy\bin\Debug\Mechanicy.exe.config
+C:\Users\bolo0\source\repos\Mechanicy\Mechanicy\bin\Debug\Mechanicy.exe
+C:\Users\bolo0\source\repos\Mechanicy\Mechanicy\bin\Debug\Mechanicy.pdb
+C:\Users\bolo0\source\repos\Mechanicy\Mechanicy\obj\Debug\Mechanicy.csprojAssemblyReference.cache
+C:\Users\bolo0\source\repos\Mechanicy\Mechanicy\obj\Debug\Mechanicy.Menu.resources
+C:\Users\bolo0\source\repos\Mechanicy\Mechanicy\obj\Debug\Mechanicy.Properties.Resources.resources
+C:\Users\bolo0\source\repos\Mechanicy\Mechanicy\obj\Debug\Mechanicy.csproj.GenerateResource.cache
+C:\Users\bolo0\source\repos\Mechanicy\Mechanicy\obj\Debug\Mechanicy.csproj.CoreCompileInputs.cache
+C:\Users\bolo0\source\repos\Mechanicy\Mechanicy\obj\Debug\Mechanicy.exe
+C:\Users\bolo0\source\repos\Mechanicy\Mechanicy\obj\Debug\Mechanicy.pdb
+C:\Users\bolo0\source\repos\Mechanicy\Mechanicy\obj\Debug\Mechanicy.Mechanicy.resources
+C:\Users\bolo0\source\repos\Mechanicy\Mechanicy\obj\Debug\Mechanicy.DodajNaprawę.resources
+C:\Users\bolo0\source\repos\Mechanicy\Mechanicy\obj\Debug\Mechanicy.PokażNaprawy.resources
+C:\Users\bolo0\source\repos\Mechanicy\Mechanicy\obj\Debug\Mechanicy.Raport.resources
+C:\Users\bolo0\Downloads\Mechanicy\Mechanicy\bin\Debug\Mechanicy.exe.config
+C:\Users\bolo0\Downloads\Mechanicy\Mechanicy\bin\Debug\Mechanicy.exe
+C:\Users\bolo0\Downloads\Mechanicy\Mechanicy\bin\Debug\Mechanicy.pdb
+C:\Users\bolo0\Downloads\Mechanicy\Mechanicy\obj\Debug\Mechanicy.csprojAssemblyReference.cache
+C:\Users\bolo0\Downloads\Mechanicy\Mechanicy\obj\Debug\Mechanicy.Mechanicy.resources
+C:\Users\bolo0\Downloads\Mechanicy\Mechanicy\obj\Debug\Mechanicy.Menu.resources
+C:\Users\bolo0\Downloads\Mechanicy\Mechanicy\obj\Debug\Mechanicy.DodajNaprawę.resources
+C:\Users\bolo0\Downloads\Mechanicy\Mechanicy\obj\Debug\Mechanicy.PokażNaprawy.resources
+C:\Users\bolo0\Downloads\Mechanicy\Mechanicy\obj\Debug\Mechanicy.Properties.Resources.resources
+C:\Users\bolo0\Downloads\Mechanicy\Mechanicy\obj\Debug\Mechanicy.Raport.resources
+C:\Users\bolo0\Downloads\Mechanicy\Mechanicy\obj\Debug\Mechanicy.csproj.GenerateResource.cache
+C:\Users\bolo0\Downloads\Mechanicy\Mechanicy\obj\Debug\Mechanicy.csproj.CoreCompileInputs.cache
+C:\Users\bolo0\Downloads\Mechanicy\Mechanicy\obj\Debug\Mechanicy.exe
+C:\Users\bolo0\Downloads\Mechanicy\Mechanicy\obj\Debug\Mechanicy.pdb
+C:\Users\bolo0\Downloads\Artur Masłowski\Mechanicy\Mechanicy\bin\Debug\Mechanicy.exe.config
+C:\Users\bolo0\Downloads\Artur Masłowski\Mechanicy\Mechanicy\bin\Debug\Mechanicy.exe
+C:\Users\bolo0\Downloads\Artur Masłowski\Mechanicy\Mechanicy\bin\Debug\Mechanicy.pdb
+C:\Users\bolo0\Downloads\Artur Masłowski\Mechanicy\Mechanicy\obj\Debug\Mechanicy.csprojAssemblyReference.cache
+C:\Users\bolo0\Downloads\Artur Masłowski\Mechanicy\Mechanicy\obj\Debug\Mechanicy.Mechanicy.resources
+C:\Users\bolo0\Downloads\Artur Masłowski\Mechanicy\Mechanicy\obj\Debug\Mechanicy.Menu.resources
+C:\Users\bolo0\Downloads\Artur Masłowski\Mechanicy\Mechanicy\obj\Debug\Mechanicy.DodajNaprawę.resources
+C:\Users\bolo0\Downloads\Artur Masłowski\Mechanicy\Mechanicy\obj\Debug\Mechanicy.PokażNaprawy.resources
+C:\Users\bolo0\Downloads\Artur Masłowski\Mechanicy\Mechanicy\obj\Debug\Mechanicy.Properties.Resources.resources
+C:\Users\bolo0\Downloads\Artur Masłowski\Mechanicy\Mechanicy\obj\Debug\Mechanicy.Raport.resources
+C:\Users\bolo0\Downloads\Artur Masłowski\Mechanicy\Mechanicy\obj\Debug\Mechanicy.csproj.GenerateResource.cache
+C:\Users\bolo0\Downloads\Artur Masłowski\Mechanicy\Mechanicy\obj\Debug\Mechanicy.csproj.CoreCompileInputs.cache
+C:\Users\bolo0\Downloads\Artur Masłowski\Mechanicy\Mechanicy\obj\Debug\Mechanicy.exe
+C:\Users\bolo0\Downloads\Artur Masłowski\Mechanicy\Mechanicy\obj\Debug\Mechanicy.pdb

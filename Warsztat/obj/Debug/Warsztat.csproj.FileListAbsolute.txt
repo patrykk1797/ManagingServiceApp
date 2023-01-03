@@ -1,0 +1,73 @@
+C:\Users\Intel\Downloads\Artur Masłowski\Mechanicy\Mechanicy\bin\Debug\Warsztat.exe.config
+C:\Users\Intel\Downloads\Artur Masłowski\Mechanicy\Mechanicy\bin\Debug\Warsztat.exe
+C:\Users\Intel\Downloads\Artur Masłowski\Mechanicy\Mechanicy\bin\Debug\Warsztat.pdb
+C:\Users\Intel\Downloads\Artur Masłowski\Mechanicy\Mechanicy\obj\Debug\Warsztat.csprojAssemblyReference.cache
+C:\Users\Intel\Downloads\Artur Masłowski\Mechanicy\Mechanicy\obj\Debug\Warsztat.MechanicsList.resources
+C:\Users\Intel\Downloads\Artur Masłowski\Mechanicy\Mechanicy\obj\Debug\Warsztat.Menu.resources
+C:\Users\Intel\Downloads\Artur Masłowski\Mechanicy\Mechanicy\obj\Debug\Warsztat.AddRepair.resources
+C:\Users\Intel\Downloads\Artur Masłowski\Mechanicy\Mechanicy\obj\Debug\Warsztat.Repairs.resources
+C:\Users\Intel\Downloads\Artur Masłowski\Mechanicy\Mechanicy\obj\Debug\Warsztat.Properties.Resources.resources
+C:\Users\Intel\Downloads\Artur Masłowski\Mechanicy\Mechanicy\obj\Debug\Warsztat.Raport.resources
+C:\Users\Intel\Downloads\Artur Masłowski\Mechanicy\Mechanicy\obj\Debug\Warsztat.csproj.GenerateResource.cache
+C:\Users\Intel\Downloads\Artur Masłowski\Mechanicy\Mechanicy\obj\Debug\Warsztat.csproj.CoreCompileInputs.cache
+C:\Users\Intel\Downloads\Artur Masłowski\Mechanicy\Mechanicy\obj\Debug\Warsztat.exe
+C:\Users\Intel\Downloads\Artur Masłowski\Mechanicy\Mechanicy\obj\Debug\Warsztat.pdb
+C:\Users\Intel\Downloads\Artur Masłowski\Warsztat\Warsztat\bin\Debug\Warsztat.exe.config
+C:\Users\Intel\Downloads\Artur Masłowski\Warsztat\Warsztat\bin\Debug\Warsztat.exe
+C:\Users\Intel\Downloads\Artur Masłowski\Warsztat\Warsztat\bin\Debug\Warsztat.pdb
+C:\Users\Intel\Downloads\Artur Masłowski\Warsztat\Warsztat\obj\Debug\Warsztat.csprojAssemblyReference.cache
+C:\Users\Intel\Downloads\Artur Masłowski\Warsztat\Warsztat\obj\Debug\Warsztat.MechanicsList.resources
+C:\Users\Intel\Downloads\Artur Masłowski\Warsztat\Warsztat\obj\Debug\Warsztat.Menu.resources
+C:\Users\Intel\Downloads\Artur Masłowski\Warsztat\Warsztat\obj\Debug\Warsztat.AddRepair.resources
+C:\Users\Intel\Downloads\Artur Masłowski\Warsztat\Warsztat\obj\Debug\Warsztat.Repairs.resources
+C:\Users\Intel\Downloads\Artur Masłowski\Warsztat\Warsztat\obj\Debug\Warsztat.Properties.Resources.resources
+C:\Users\Intel\Downloads\Artur Masłowski\Warsztat\Warsztat\obj\Debug\Warsztat.Raport.resources
+C:\Users\Intel\Downloads\Artur Masłowski\Warsztat\Warsztat\obj\Debug\Warsztat.csproj.GenerateResource.cache
+C:\Users\Intel\Downloads\Artur Masłowski\Warsztat\Warsztat\obj\Debug\Warsztat.csproj.CoreCompileInputs.cache
+C:\Users\Intel\Downloads\Artur Masłowski\Warsztat\Warsztat\obj\Debug\Warsztat.exe
+C:\Users\Intel\Downloads\Artur Masłowski\Warsztat\Warsztat\obj\Debug\Warsztat.pdb
+C:\Users\Intel\Downloads\Artur Masłowski\Warsztat\Warsztat\obj\Debug\Warsztat.Splash.resources
+C:\Users\kurko\Desktop\Programowanie wizualne\Adam Pokorski\Warsztat\bin\Debug\Warsztat.exe.config
+C:\Users\kurko\Desktop\Programowanie wizualne\Adam Pokorski\Warsztat\bin\Debug\Warsztat.exe
+C:\Users\kurko\Desktop\Programowanie wizualne\Adam Pokorski\Warsztat\bin\Debug\Warsztat.pdb
+C:\Users\kurko\Desktop\Programowanie wizualne\Adam Pokorski\Warsztat\obj\Debug\Warsztat.csprojAssemblyReference.cache
+C:\Users\kurko\Desktop\Programowanie wizualne\Adam Pokorski\Warsztat\obj\Debug\Warsztat.MechanicsList.resources
+C:\Users\kurko\Desktop\Programowanie wizualne\Adam Pokorski\Warsztat\obj\Debug\Warsztat.Menu.resources
+C:\Users\kurko\Desktop\Programowanie wizualne\Adam Pokorski\Warsztat\obj\Debug\Warsztat.AddRepair.resources
+C:\Users\kurko\Desktop\Programowanie wizualne\Adam Pokorski\Warsztat\obj\Debug\Warsztat.Repairs.resources
+C:\Users\kurko\Desktop\Programowanie wizualne\Adam Pokorski\Warsztat\obj\Debug\Warsztat.Properties.Resources.resources
+C:\Users\kurko\Desktop\Programowanie wizualne\Adam Pokorski\Warsztat\obj\Debug\Warsztat.Raport.resources
+C:\Users\kurko\Desktop\Programowanie wizualne\Adam Pokorski\Warsztat\obj\Debug\Warsztat.Splash.resources
+C:\Users\kurko\Desktop\Programowanie wizualne\Adam Pokorski\Warsztat\obj\Debug\Warsztat.csproj.GenerateResource.cache
+C:\Users\kurko\Desktop\Programowanie wizualne\Adam Pokorski\Warsztat\obj\Debug\Warsztat.csproj.CoreCompileInputs.cache
+C:\Users\kurko\Desktop\Programowanie wizualne\Adam Pokorski\Warsztat\obj\Debug\Warsztat.exe
+C:\Users\kurko\Desktop\Programowanie wizualne\Adam Pokorski\Warsztat\obj\Debug\Warsztat.pdb
+C:\Users\patry\OneDrive\Pulpit\Patryk-Kwiatkowski\Warsztat\bin\Debug\Warsztat.exe.config
+C:\Users\patry\OneDrive\Pulpit\Patryk-Kwiatkowski\Warsztat\bin\Debug\Warsztat.exe
+C:\Users\patry\OneDrive\Pulpit\Patryk-Kwiatkowski\Warsztat\bin\Debug\Warsztat.pdb
+C:\Users\patry\OneDrive\Pulpit\Patryk-Kwiatkowski\Warsztat\obj\Debug\Warsztat.csprojAssemblyReference.cache
+C:\Users\patry\OneDrive\Pulpit\Patryk-Kwiatkowski\Warsztat\obj\Debug\Warsztat.MechanicsList.resources
+C:\Users\patry\OneDrive\Pulpit\Patryk-Kwiatkowski\Warsztat\obj\Debug\Warsztat.Menu.resources
+C:\Users\patry\OneDrive\Pulpit\Patryk-Kwiatkowski\Warsztat\obj\Debug\Warsztat.AddRepair.resources
+C:\Users\patry\OneDrive\Pulpit\Patryk-Kwiatkowski\Warsztat\obj\Debug\Warsztat.Repairs.resources
+C:\Users\patry\OneDrive\Pulpit\Patryk-Kwiatkowski\Warsztat\obj\Debug\Warsztat.Properties.Resources.resources
+C:\Users\patry\OneDrive\Pulpit\Patryk-Kwiatkowski\Warsztat\obj\Debug\Warsztat.Raport.resources
+C:\Users\patry\OneDrive\Pulpit\Patryk-Kwiatkowski\Warsztat\obj\Debug\Warsztat.csproj.GenerateResource.cache
+C:\Users\patry\OneDrive\Pulpit\Patryk-Kwiatkowski\Warsztat\obj\Debug\Warsztat.csproj.CoreCompileInputs.cache
+C:\Users\patry\OneDrive\Pulpit\Patryk-Kwiatkowski\Warsztat\obj\Debug\Warsztat.exe
+C:\Users\patry\OneDrive\Pulpit\Patryk-Kwiatkowski\Warsztat\obj\Debug\Warsztat.pdb
+D:\Studia1\Patryk-Kwiatkowski\Warsztat\bin\Debug\Warsztat.exe.config
+D:\Studia1\Patryk-Kwiatkowski\Warsztat\bin\Debug\Warsztat.exe
+D:\Studia1\Patryk-Kwiatkowski\Warsztat\bin\Debug\Warsztat.pdb
+D:\Studia1\Patryk-Kwiatkowski\Warsztat\obj\Debug\Warsztat.csproj.AssemblyReference.cache
+D:\Studia1\Patryk-Kwiatkowski\Warsztat\obj\Debug\Warsztat.csproj.SuggestedBindingRedirects.cache
+D:\Studia1\Patryk-Kwiatkowski\Warsztat\obj\Debug\Warsztat.MechanicsList.resources
+D:\Studia1\Patryk-Kwiatkowski\Warsztat\obj\Debug\Warsztat.Menu.resources
+D:\Studia1\Patryk-Kwiatkowski\Warsztat\obj\Debug\Warsztat.AddRepair.resources
+D:\Studia1\Patryk-Kwiatkowski\Warsztat\obj\Debug\Warsztat.Repairs.resources
+D:\Studia1\Patryk-Kwiatkowski\Warsztat\obj\Debug\Warsztat.Properties.Resources.resources
+D:\Studia1\Patryk-Kwiatkowski\Warsztat\obj\Debug\Warsztat.Raport.resources
+D:\Studia1\Patryk-Kwiatkowski\Warsztat\obj\Debug\Warsztat.csproj.GenerateResource.cache
+D:\Studia1\Patryk-Kwiatkowski\Warsztat\obj\Debug\Warsztat.csproj.CoreCompileInputs.cache
+D:\Studia1\Patryk-Kwiatkowski\Warsztat\obj\Debug\Warsztat.exe
+D:\Studia1\Patryk-Kwiatkowski\Warsztat\obj\Debug\Warsztat.pdb
